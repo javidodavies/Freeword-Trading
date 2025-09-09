@@ -1,0 +1,88 @@
+>>>> IMAGES <<<<
+
+main white logo "626 x 209"
+img/logo.png 
+
+main blue logo "626 x 209"
+img/logo1.png 
+
+
+Client Logos "292 x 167"
+img/dangote.png
+img/fqm.png
+img/kcm.png
+img/orica.png
+img/themofisher.png
+
+index hero image "1920 x 1080
+img/hero1.png
+
+Products Labware hero image "2000 x 834"
+img/hero-bg-03.png
+
+Products heavy equipment hero image "2000 x 834"
+img/hero-bg-02.png
+
+Products electricals hero image "2000 x 834"
+img/hero-bg-01.png
+
+Products images "834 x 626"
+img/products/ppe-03.png
+img/products/ppe-02.png
+img/products/ppe-01.png
+img/products/powertools-02.png
+img/products/powertools-03.png
+img/products/powertools-01.png
+img/products/controlpanels-01.png
+img/products/controlpanels-02.png
+img/products/controlpanels-03.png
+img/products/mechtools-01.png
+img/products/mechtools-03.png
+img/products/mechtools-02.png
+img/products/electrical-01.png
+img/products/electrical-02.png
+img/products/electrical-03.png
+img/products/hydraulic-01.png
+img/products/hydraulic-03.png
+img/products/hydraulic-02.png
+img/Products/sysytems-01.png
+img/Products/sysytems-02.png
+img/products/sysytems-03.png
+img/products/undercarriage-02.png
+img/products/undercarriage-01.png
+img/Products/undercarriage-03.png
+img/products/cabcontrols-03.png
+img/products/cabcontrols-02.png
+img/products/cabcontrols-01.png
+img/products/engine-02.png
+img/products/engine-01.png
+img/products/engine-03.png
+img/products/hydraulic-01.png
+img/Products/hydraulic-03.png
+img/products/hydraulic-02.png
+img/products/transmission-01.png
+img/products/transmission-02.png
+img/products/transmission-03.png
+img/products/chemicals-01.png
+img/products/chemicals-02.png
+img/products/chemicals-03.png
+img/products/containers-01.png
+img/products/containers-02.png
+img/products/containers-03.png
+img/products/glassware-01.png
+img/products/glassware-02.png
+img/products/glassware-03.png
+img/products/instruments-01.png
+img/products/instruments-02.png
+img/products/instruments-03.png
+img/products/labsafety-01.png
+img/products/labsafety-02.png
+img/products/labsafety-03.png
+
+>>>> colors <<<<
+| Role                                | Hex Code  ||
+| ----------------------------------- | --------- ||
+| **White (Background / Base)**       | `#FFFFFF` ||
+| **Gray (Neutral / Text Secondary)** | `#6B7280` ||
+| **Blue (Primary / Accent)**         | `#2563EB` ||
+| **Black (Text / Strong Contrast)**  | `#111827` ||
